@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["MAMMOOS GAMING OFICCAL BOT","DEVELOPED BY MAMMOOS GAMING"];
 
 
 let currentIndex = 0;
