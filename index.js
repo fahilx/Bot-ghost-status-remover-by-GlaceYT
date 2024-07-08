@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["DEVELOPED.BY,MAMMOOS.GAMING","NO ONE IS NOT PERMENANT"];
 
 
 let currentIndex = 0;
